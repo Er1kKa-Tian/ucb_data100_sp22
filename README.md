@@ -1,3 +1,13 @@
+## Er1kKa's Fork of Data100 2022SP
+
+Please copy and rename a notebook before editing!
+
+
+---
+
+Original README.md:
+
+
 ## Data 100 Spring 2022 website
 
 Public facing repo for Data 100, Spring 2022
