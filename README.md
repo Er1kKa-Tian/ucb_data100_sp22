@@ -1,6 +1,5 @@
 ## Er1kKa's Fork of Data100 2022SP
 
-Please copy and rename a notebook before editing!
 
 
 ---
