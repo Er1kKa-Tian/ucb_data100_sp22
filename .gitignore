@@ -3,3 +3,4 @@
 _site/*
 **/.OTTER_LOG
 **/__pycache__/*
+**/*.db
